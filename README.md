@@ -4,9 +4,9 @@ For birthday API of famous personalities like film actor, actress, politician, s
 
 ## Details
 
-**End Point**: http://wishiy.com/api/today  
+**End Point**: http://wishiy.com/page/api/today  
 **Method**: POST  
-**Documentation URL**: http://wishiy.com/api  
+**Documentation URL**: http://wishiy.com/page/api  
 **Provider**: wishiy.com  
 **Input**: This API accepts two parameters as input.   
 *response*, *limit*  
